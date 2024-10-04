@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aguiv\\Desktop\\Manos a la obra\\MALO-backend\\MALO.Microservice.Empleos.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30CB8D5B-E25B-4D81-B483-82D54DD42CC7}|MALO.Microservice.Empleos.API\\MALO.Microservice.Empleos.API.csproj|c:\\users\\aguiv\\desktop\\manos a la obra\\malo-backend\\malo.microservice.empleos.api\\malo.microservice.empleos.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CB8D5B-E25B-4D81-B483-82D54DD42CC7}|MALO.Microservice.Empleos.API\\MALO.Microservice.Empleos.API.csproj|solutionrelative:malo.microservice.empleos.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C1DFC4-E8A8-4A21-AF3B-20E17D3BCA56}|MALO.Microservice.Empleo.Aplication\\MALO.Microservice.Empleos.Aplication.csproj|c:\\users\\aguiv\\desktop\\manos a la obra\\malo-backend\\malo.microservice.empleos.api\\malo.microservice.empleo.aplication\\interfaces\\controllers\\iapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C1DFC4-E8A8-4A21-AF3B-20E17D3BCA56}|MALO.Microservice.Empleo.Aplication\\MALO.Microservice.Empleos.Aplication.csproj|solutionrelative:malo.microservice.empleo.aplication\\interfaces\\controllers\\iapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136ED01-B50B-4636-9ECD-0C41EDE74B62}|MALO.Microservice.Empleos.Infraestructure\\MALO.Microservice.Empleos.Infraestructure.csproj|c:\\users\\aguiv\\desktop\\manos a la obra\\malo-backend\\malo.microservice.empleos.api\\malo.microservice.empleos.infraestructure\\repositories\\ususarioinfraestructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136ED01-B50B-4636-9ECD-0C41EDE74B62}|MALO.Microservice.Empleos.Infraestructure\\MALO.Microservice.Empleos.Infraestructure.csproj|solutionrelative:malo.microservice.empleos.infraestructure\\repositories\\ususarioinfraestructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B71477-94CF-4A21-A5A9-2B319C922C42}|MALO.Microservice.Empleos.Domain\\MALO.Microservice.Empleos.Domain.csproj|c:\\users\\aguiv\\desktop\\manos a la obra\\malo-backend\\malo.microservice.empleos.api\\malo.microservice.empleos.domain\\dtos\\usuario\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B71477-94CF-4A21-A5A9-2B319C922C42}|MALO.Microservice.Empleos.Domain\\MALO.Microservice.Empleos.Domain.csproj|solutionrelative:malo.microservice.empleos.domain\\dtos\\usuario\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136ED01-B50B-4636-9ECD-0C41EDE74B62}|MALO.Microservice.Empleos.Infraestructure\\MALO.Microservice.Empleos.Infraestructure.csproj|c:\\users\\aguiv\\desktop\\manos a la obra\\malo-backend\\malo.microservice.empleos.api\\malo.microservice.empleos.infraestructure\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136ED01-B50B-4636-9ECD-0C41EDE74B62}|MALO.Microservice.Empleos.Infraestructure\\MALO.Microservice.Empleos.Infraestructure.csproj|solutionrelative:malo.microservice.empleos.infraestructure\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\aguiv\\Desktop\\Manos a la obra\\MALO-backend\\MALO.Microservice.Empleos.API\\MALO.Microservice.Empleos.API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "MALO.Microservice.Empleos.API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\aguiv\\Desktop\\Manos a la obra\\MALO-backend\\MALO.Microservice.Empleos.API\\MALO.Microservice.Empleos.API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "MALO.Microservice.Empleos.API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:25:11.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IApiController.cs",
+              "DocumentMoniker": "C:\\Users\\aguiv\\Desktop\\Manos a la obra\\MALO-backend\\MALO.Microservice.Empleos.API\\MALO.Microservice.Empleo.Aplication\\Interfaces\\Controllers\\IApiController.cs",
+              "RelativeDocumentMoniker": "MALO.Microservice.Empleo.Aplication\\Interfaces\\Controllers\\IApiController.cs",
+              "ToolTip": "C:\\Users\\aguiv\\Desktop\\Manos a la obra\\MALO-backend\\MALO.Microservice.Empleos.API\\MALO.Microservice.Empleo.Aplication\\Interfaces\\Controllers\\IApiController.cs",
+              "RelativeToolTip": "MALO.Microservice.Empleo.Aplication\\Interfaces\\Controllers\\IApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:25:06.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\aguiv\\Desktop\\Manos a la obra\\MALO-backend\\MALO.Microservice.Empleos.API\\MALO.Microservice.Empleos.Domain\\DTOs\\Usuario\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "MALO.Microservice.Empleos.Domain\\DTOs\\Usuario\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\aguiv\\Desktop\\Manos a la obra\\MALO-backend\\MALO.Microservice.Empleos.API\\MALO.Microservice.Empleos.Domain\\DTOs\\Usuario\\UsuarioDto.cs",
+              "RelativeToolTip": "MALO.Microservice.Empleos.Domain\\DTOs\\Usuario\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:15:45.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\aguiv\\Desktop\\Manos a la obra\\MALO-backend\\MALO.Microservice.Empleos.API\\MALO.Microservice.Empleos.Infraestructure\\Usings.cs",
+              "RelativeDocumentMoniker": "MALO.Microservice.Empleos.Infraestructure\\Usings.cs",
+              "ToolTip": "C:\\Users\\aguiv\\Desktop\\Manos a la obra\\MALO-backend\\MALO.Microservice.Empleos.API\\MALO.Microservice.Empleos.Infraestructure\\Usings.cs",
+              "RelativeToolTip": "MALO.Microservice.Empleos.Infraestructure\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:11:08.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsusarioInfraestructure.cs",
+              "DocumentMoniker": "C:\\Users\\aguiv\\Desktop\\Manos a la obra\\MALO-backend\\MALO.Microservice.Empleos.API\\MALO.Microservice.Empleos.Infraestructure\\Repositories\\UsusarioInfraestructure.cs",
+              "RelativeDocumentMoniker": "MALO.Microservice.Empleos.Infraestructure\\Repositories\\UsusarioInfraestructure.cs",
+              "ToolTip": "C:\\Users\\aguiv\\Desktop\\Manos a la obra\\MALO-backend\\MALO.Microservice.Empleos.API\\MALO.Microservice.Empleos.Infraestructure\\Repositories\\UsusarioInfraestructure.cs",
+              "RelativeToolTip": "MALO.Microservice.Empleos.Infraestructure\\Repositories\\UsusarioInfraestructure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:10:20.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
